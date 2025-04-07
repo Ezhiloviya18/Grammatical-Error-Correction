@@ -1,7 +1,5 @@
 ## Grammatical Error Correction using T5 Model and HappyTransformer
 
-Status : Currently Working On
-
 Welcome to the Grammatical Error Correction using T5 Model and HappyTransformer project! This repository contains code and documentation for training and fine-tuning a T5 model using HappyTransformer on the Lang-8 dataset for grammatical error correction.
 
 ## Table of Contents
